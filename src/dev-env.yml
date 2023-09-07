@@ -123,7 +123,7 @@ WEBHOOK:
 
 CONFIG_SESSION_PHONE:
   # Name that will be displayed on smartphone connection
-  CLIENT: "Evolution API"
+  CLIENT: "AcosApix"
   NAME: chrome # chrome | firefox | edge | opera | safari
 
 # Set qrcode display limit

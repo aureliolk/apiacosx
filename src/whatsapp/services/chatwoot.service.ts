@@ -210,8 +210,8 @@ export class ChatwootService {
         '123456',
         inboxId,
         false,
-        'EvolutionAPI',
-        'https://evolution-api.com/files/evolution-api-favicon.png',
+        'AcosApix',
+        'https://dev.acos-services.tech/wp-content/uploads/2023/08/5340247_chat_media_network_social_telegram_icon-1.png',
       )) as any);
 
     if (!contact) {
